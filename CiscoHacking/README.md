@@ -17,7 +17,7 @@ I enrolled in this course at **TAMK (Tampere University of Applied Sciences)** t
 - **Exploiting vulnerabilities in controlled environments** 🏴‍☠️  
 - **Defensive security techniques and mitigation strategies** 🛡️  
 
-### ⚠️ Disclaimer ⚠️
+### ⚠️⚠️ Disclaimer ⚠️⚠️
 
 This repository is for **educational purposes only**. Ethical hacking should always be done within a **legal** and **authorized** environment.
 
