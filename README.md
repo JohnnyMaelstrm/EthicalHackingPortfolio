@@ -8,8 +8,9 @@ This repository showcases my work in cybersecurity, including penetration testin
 🔐 Key Areas:
 
 ✔️ Network & Web Security
+
 ✔️ Exploiting & Hardening Systems
-✔️ Penetration Testing & Red Teaming
+✔️ Penetration Testing
 ✔️ Security Research & Custom Tools
 
 This portfolio serves as both a learning journal and a demonstration of my practical skills in ethical hacking and also in penetration testing!
