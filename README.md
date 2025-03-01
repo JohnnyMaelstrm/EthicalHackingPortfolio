@@ -3,7 +3,7 @@
 
 # 🚀Welcome to my Ethical Hacking Portfolio! 🚀
 
-This repository showcases my work in cybersecurity, including penetration testing exercises, vulnerability assessments, and custom tools/scripts I've used to develop my ethical hacking skills. Each project reflects my hands-on experience in identifying, exploiting, and mitigating security risks.
+Welcome to my cybersecurity portfolio! This repository showcases hands-on projects where I’ve tested and developed my skills in ethical hacking. It includes penetration testing exercises and vulnerability assessments.
 
 🔐 Key Areas:
 
