@@ -3,7 +3,7 @@
 
 # 🚀Welcome to my Ethical Hacking Portfolio! 🚀
 
-This repository showcases hands-on projects where I’ve tested and developed my skills in ethical hacking. It includes penetration testing exercises and vulnerability assessments.
+This repository shows hands-on projects where I’ve tested and developed my skills in ethical hacking. It includes also penetration testing / ethical hacking-related exercises and vulnerability assessments. I upload here quite frequently.
 
 🔐 Key Areas:
 
@@ -15,5 +15,5 @@ This repository showcases hands-on projects where I’ve tested and developed my
 
 ✔️ Security Research & Custom Tools
 
-This portfolio serves as both a learning journal and a demonstration of my practical skills in ethical hacking and also in penetration testing!
+This portfolio have also python-related projects. Most of them are in finnish and school projects, but free to check them out!
 # - J -
