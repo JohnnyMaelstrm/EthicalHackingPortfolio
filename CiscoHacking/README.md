@@ -6,7 +6,7 @@
 I enrolled in this course at **TAMK (Tampere University of Applied Sciences)** to expand my knowledge of **ethical hacking**. This repository contains exercises and projects from the course.
 
 ### 📂 Repository Structure 
-# You can view my completed tasks on the left! Some basic information about .pdf files: The file name includes either 'lab' or 'projects' which translates:
+ You can view my completed tasks on the left! Some basic information about .pdf files: The file name includes either 'lab' or 'projects' which translates:
 
 - **Labs/Labra** → Practical hands-on exercises and tasks  
 - **Projects/Projektit** → Larger, in-depth security projects  
