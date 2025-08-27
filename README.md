@@ -11,6 +11,7 @@ Subrepositorios:
 - EthicalHacking
 - Pentesting
 - PythonProjects
+- Cyberops
 
 This portfolio have also python-related projects. Most of them are in finnish and school projects, but free to check them out!
 As the cherry on top, I suggest taking a look at my [C2-project](https://github.com/JohnnyMaelstrm/C2Project). It is still a work-in-progress repository and heavily under construction, but a really exciting project that I am working on.
